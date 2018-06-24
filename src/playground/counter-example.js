@@ -24,7 +24,7 @@ class Counter extends React.Component {
     }
     handleReset(){
         this.setState(() => {
-            return {
+           return {
                 count: 0
             }
         });
