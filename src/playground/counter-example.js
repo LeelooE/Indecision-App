@@ -23,7 +23,6 @@ class Counter extends React.Component {
     }
     componentDidUpdate(prevProps, prevState){
         if(prevState.count !== this.state.count){
-            console.log('did update');
             const json = JSON.stringify(this.state.count);
             const num = parseInt(json, 10);
             localStorage.setItem('count', num);
