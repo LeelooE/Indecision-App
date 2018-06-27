@@ -1,5 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const template = React.createElement ('p', {}, 'test');
+const template = <p>test</p>
 ReactDOM.render(template, document.getElementById('app'));
