@@ -25,6 +25,7 @@
     "babel-plugin-transform-class-properties": "^6.24.1",
     "babel-preset-env": "^1.5.2",
     "babel-preset-react": "^6.24.1",
+    "cryptiles": "^4.1.2",
     "css-loader": "^0.28.4",
     "eslint": "^5.3.0",
     "hoek": "^5.0.3",
@@ -36,6 +37,7 @@
     "react-modal": "^2.2.2",
     "sass-loader": "^6.0.6",
     "style-loader": "^0.18.2",
+    "url-parse": "^1.4.3",
     "validator": "^8.0.0",
     "webpack": "^3.1.0",
     "webpack-dev-server": "^2.5.1"
