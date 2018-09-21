@@ -1,7 +1,4 @@
 node_modules/
-2.19.3
 .vscode/
 git/
 yarn-error.log
-.env.test
-.env.development
